@@ -33,3 +33,22 @@ Para executar este projeto, clone ou baixe os arquivos e instale todas as depend
 ```bash
 pip install pandas numpy plotly reportlab kaleido
 ```
+
+## 5. Como Executar
+
+- Salve o código-fonte do projeto em um arquivo chamado script_analise.py.
+- Abra seu terminal ou prompt de comando.
+- Navegue até a pasta onde você salvou o arquivo.
+- Execute o script com o seguinte comando:
+```bash
+python script_analise.py
+```
+O script cuidará de todo o processo, desde a criação dos dados até a geração do relatório final.
+
+## 6. Framework de Governança Aplicado
+
+O desenvolvimento foi guiado pelos seguintes princípios de IA Responsável:
+* Responsabilização Humana (Human-in-Command): A IA atua como uma ferramenta de suporte. A decisão final é sempre de um operador humano.
+* Justiça e Equidade (Fairness): O sistema foi projetado para ser monitorado against vieses geográficos ou de performance, garantindo um serviço equitativo.
+* Transparência: As análises e relatórios gerados visam tornar a performance do sistema clara e auditável.
+* Confiabilidade e Segurança: O código é modular e busca garantir uma performance consistente e previsível.

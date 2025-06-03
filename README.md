@@ -4,6 +4,11 @@
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen.svg)
 ![Versão](https://img.shields.io/badge/Versão-1.0-informational.svg)
 
+## Integrantes
+* Nickolas Ferraz - RM558458
+* Marcos Paolucci - RM554941
+* Sandron Oliveira - RM557172
+
 ## 1. Visão Geral do Projeto
 
 Este projeto demonstra um ciclo completo de desenvolvimento e governança de um sistema de Inteligência Artificial para o setor de serviços de emergência. O script simula a operação de um assistente de IA que ajuda na triagem de chamadas, analisa sua performance, identifica gargalos e vieses, e por fim, gera um relatório consolidado em PDF.
